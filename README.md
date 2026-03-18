@@ -1,2 +1,2 @@
-# AguweyBotWebPro1PC
-IA Local Híbrida 
+# aguweybotwebpro1
+IA Asistente para Ingenieros, Científicos y Escritores 
