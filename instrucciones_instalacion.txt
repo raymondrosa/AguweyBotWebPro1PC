@@ -1,0 +1,52 @@
+
+PASOS DE INSTALACIÓN DE AGUWEYBOT (WINDOWS)
+-------------------------------------------
+
+1. INSTALAR PYTHON
+   - Descargar desde: https://www.python.org/downloads/windows/
+   - Marcar la opción: Add Python to PATH
+   - Completar instalación.
+
+2. VERIFICAR INSTALACIÓN
+   python --version
+
+3. DESACTIVAR ALIAS DE LA MICROSOFT STORE (SI APLICA)
+   Configuración > Apps > App execution aliases
+   Apagar python.exe y python3.exe
+
+4. CREAR ENTORNO VIRTUAL
+   Abrir PowerShell en la carpeta del proyecto:
+   cd C:/Users/rrosa/Documents/aguweybotwebpro1PC-main
+
+   Crear venv:
+   python -m venv venv
+
+5. ACTIVAR ENTORNO VIRTUAL
+   En PowerShell:
+   .\venv\Scripts\Activate.ps1
+
+   Si aparece error de permisos:
+   Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+   .\venv\Scripts\Activate.ps1
+
+6. INSTALAR DEPENDENCIAS DESDE requirements.txt
+   pip install -r requirements.txt
+
+7. CONFIGURAR secrets.toml
+   Crear carpeta:
+   .streamlit
+
+   Crear archivo dentro:
+   .streamlit/secrets.toml
+
+   Contenido:
+   GROQ_API_KEY = "TU_CLAVE_AQUI"
+
+8. EJECUTAR AGUWEYBOT
+   streamlit run AguweyBotWebPro1PC.py
+
+La aplicación abrirá en el navegador en:
+   http://localhost:8501
+
+-------------------------------------------
+FIN DEL DOCUMENTO
