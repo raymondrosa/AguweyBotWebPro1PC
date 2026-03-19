@@ -89,10 +89,7 @@ chardet>=5.2.0
 🖼️ Capturas de pantalla
 
 
-<img src="screenshots/interfaz-principal.png" alt="Interfaz principal">
-<img src="screenshots/imagen-local-ejemplo.png" alt="Generación de imagen local">
-<img src="screenshots/analisis-pdf.png" alt="Análisis de PDF">
-(Añade carpeta /screenshots y sube imágenes reales)
+<img src="aguweyBotPro1.gpj" alt="Interfaz principal">
 
 
 📄 Licencia
