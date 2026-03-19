@@ -101,7 +101,7 @@ Debes dar crédito al autor original (Raymond Rosa Ávila)
 Si creas obras derivadas, debes publicarlas bajo la misma licencia
 
 Ver licencia completa →
-
+ 
 
 ✍️ Autor
 Raymond Rosa Ávila
