@@ -89,7 +89,7 @@ chardet>=5.2.0
 🖼️ Capturas de pantalla
 
 
-<img src="AguweyBotWebPro1.gpj" alt="Interfaz principal">
+<img src="AguweyBotWebPro1.jpg" alt="Interfaz principal">
 
 
 📄 Licencia
