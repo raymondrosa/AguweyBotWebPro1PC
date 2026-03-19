@@ -86,12 +86,6 @@ gtts>=2.5.3               # opcional - texto a voz
 chardet>=5.2.0
 
 
-🖼️ Capturas de pantalla
-
-
-<img src="AguweyBotWebPro1.jpg">
-
-
 📄 Licencia
 Creative Commons Attribution-ShareAlike 4.0 International
 (CC BY-SA 4.0)
